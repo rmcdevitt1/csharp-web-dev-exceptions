@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-web-dev-exceptions", "csharp-web-dev-exceptions.csproj", "{BB0F93F7-71B0-45C7-90DF-2B1E3EA7B9CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0F93F7-71B0-45C7-90DF-2B1E3EA7B9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0F93F7-71B0-45C7-90DF-2B1E3EA7B9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0F93F7-71B0-45C7-90DF-2B1E3EA7B9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0F93F7-71B0-45C7-90DF-2B1E3EA7B9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810C06E2-3DFE-479A-A068-6E5EB9ECCB50}
+	EndGlobalSection
+EndGlobal
